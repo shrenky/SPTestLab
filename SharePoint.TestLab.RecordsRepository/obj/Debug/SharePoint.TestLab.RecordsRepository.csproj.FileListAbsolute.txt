@@ -1,0 +1,5 @@
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.RecordsRepository\bin\Debug\SharePoint.TestLab.RecordsRepository.dll
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.RecordsRepository\bin\Debug\SharePoint.TestLab.RecordsRepository.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.RecordsRepository\obj\Debug\SharePoint.TestLab.RecordsRepository.dll
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.RecordsRepository\obj\Debug\SharePoint.TestLab.RecordsRepository.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.RecordsRepository\obj\Debug\SharePoint.TestLab.RecordsRepository.csprojResolveAssemblyReference.cache

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <CustomAction
+    Id="SharePoint.TestLab.CustomAction.SiteSetting"
+    GroupId="SiteCollectionAdmin"
+    Location="Microsoft.SharePoint.SiteSettings"
+    Sequence="2002"
+    Rights="ManageWeb"
+    Title="Custom Action Site Settings">
+    <UrlAction Url="_layouts/SharePoint.TestLab.CustomAction/CustomActionSiteSetting.aspx" />
+  </CustomAction>
+  <CustomActionGroup
+    Id="SharePoint.TestLab.CustomAction.ActionGroup"
+    Location="Microsoft.SharePoint.SiteSettings"
+    Title="SharePoint Test Lab Custom Action Group"
+    Sequence="1000">
+  </CustomActionGroup>
+  <CustomAction
+      Id="SharePoint.TestLab.CustomAction.ActionGroup.TestScope"
+      GroupId="SharePoint.TestLab.CustomAction.ActionGroup"
+      Location="Microsoft.SharePoint.SiteSettings"
+      RequireSiteAdministrator="TRUE"
+      Sequence="10"
+      RootWebOnly="TRUE"
+      Rights="ManageWeb"
+      Title="Test Scope requre site admin">
+  </CustomAction>
+  <CustomAction
+      Id="SharePoint.TestLab.CustomAction.ActionGroup.TestScope2"
+      GroupId="SharePoint.TestLab.CustomAction.ActionGroup"
+      Location="Microsoft.SharePoint.SiteSettings"
+      Sequence="10"
+      RootWebOnly="TRUE"
+      Rights="ManageWeb"
+      Title="Test Scope not require site admin">
+  </CustomAction>
+</Elements>

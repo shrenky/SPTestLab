@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SharePoint.TestLab.RecordsRepository Feature" Id="cc3a8697-32df-4ffb-a809-dae515f2a1ab" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="RecordsRepositoryElement\Elements.xml" />
+  </ElementManifests>
+</Feature>

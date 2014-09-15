@@ -1,0 +1,5 @@
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Helper\bin\Debug\SharePoint.TestLab.Helper.dll
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Helper\bin\Debug\SharePoint.TestLab.Helper.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Helper\obj\Debug\SharePoint.TestLab.Helper.csprojResolveAssemblyReference.cache
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Helper\obj\Debug\SharePoint.TestLab.Helper.dll
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Helper\obj\Debug\SharePoint.TestLab.Helper.pdb

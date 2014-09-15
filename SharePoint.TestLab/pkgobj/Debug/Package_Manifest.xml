@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="f7018569-3c66-4210-859e-03a14946bcc6" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SharePoint.TestLab.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+</Solution>

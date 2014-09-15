@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SharePoint.TestLab.CustomAction Hide" Description="Hide some elements" Id="b7f71133-de15-4de4-9f01-b2793e4a77f3" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="HideElements\Elements.xml" />
+  </ElementManifests>
+</Feature>

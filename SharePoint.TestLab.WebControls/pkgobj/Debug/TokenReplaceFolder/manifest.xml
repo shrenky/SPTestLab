@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a7703cae-04f7-42a2-81ee-874391157b27" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SharePoint.TestLab.WebControls.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\SharePoint.TestLab.WebControls\SPPageStatusSetterPage.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SharePoint.TestLab.WebControls_TestSPPageStatusSetter\Feature.xml" />
+  </FeatureManifests>
+</Solution>

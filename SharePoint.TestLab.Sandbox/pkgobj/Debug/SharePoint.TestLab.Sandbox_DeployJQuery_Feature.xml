@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Deploy JQuery 1.11.0 to SiteAssets library" Id="55b3a98f-8507-43ef-9342-a16381dc9974" Scope="Site" Title="SharePoint.TestLab.Sandbox Deploy JQuery">
+  <ElementManifests>
+    <ElementManifest Location="TestLabAssets\Elements.xml" />
+    <ElementFile Location="TestLabAssets\jquery-1.11.0.min.js" />
+    <ElementManifest Location="MyWebPart\Elements.xml" />
+    <ElementFile Location="MyWebPart\MyWebPart.webpart" />
+  </ElementManifests>
+</Feature>

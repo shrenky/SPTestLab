@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="MyPictures" List="113" Url="_catalogs/wp">
+    <File Path="MyPictures\MyPictures.webpart" Url="SharePoint.TestLab.JQuery_MyPictures.webpart" Type="GhostableInLibrary">
+      <Property Name="Group" Value="Custom" />
+    </File>
+  </Module>
+</Elements>

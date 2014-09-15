@@ -1,0 +1,5 @@
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.JQuery\bin\Debug\SharePoint.TestLab.JQuery.dll
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.JQuery\bin\Debug\SharePoint.TestLab.JQuery.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.JQuery\obj\Debug\SharePoint.TestLab.JQuery.csprojResolveAssemblyReference.cache
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.JQuery\obj\Debug\SharePoint.TestLab.JQuery.dll
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.JQuery\obj\Debug\SharePoint.TestLab.JQuery.pdb

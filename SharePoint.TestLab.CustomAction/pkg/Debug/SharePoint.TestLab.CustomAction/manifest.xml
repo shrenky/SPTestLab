@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a5d14336-e193-4886-b7ac-b20e0b54b7d8" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SharePoint.TestLab.CustomAction.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\SharePoint.TestLab.CustomAction\CustomActionSiteSetting.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SharePoint.TestLab.CustomAction_CustomFeature\Feature.xml" />
+    <FeatureManifest Location="SharePoint.TestLab.CustomAction_HideSomeFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

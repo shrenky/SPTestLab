@@ -1,0 +1,5 @@
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.WebControls\bin\Debug\SharePoint.TestLab.WebControls.dll
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.WebControls\bin\Debug\SharePoint.TestLab.WebControls.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.WebControls\obj\Debug\SharePoint.TestLab.WebControls.csprojResolveAssemblyReference.cache
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.WebControls\obj\Debug\SharePoint.TestLab.WebControls.dll
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.WebControls\obj\Debug\SharePoint.TestLab.WebControls.pdb

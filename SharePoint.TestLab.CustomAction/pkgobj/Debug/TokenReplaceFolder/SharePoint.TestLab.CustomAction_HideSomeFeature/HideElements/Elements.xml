@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+ Location="ScriptLink"
+ScriptBlock="                       
+            function loadjQueryScripts(src) {          
+                      
+                      var head = document.getElementsByTagName('head')[0];          
+                      var script = document.createElement('script');          
+                      script.type = 'text/javascript';           
+                      script.src = src;           
+                      head.appendChild(script);  
+            }                   
+           function hideSiteActions() {
+           debugger;
+            var menuItems = document.getElementsByTagName('ie:menuitem');
+                for (var key in menuItems)
+                {
+                 if (key.endsWith('ViewAllSiteContents'))
+                  menuItems[key].hidden = true;
+                }
+          }         
+          _spBodyOnLoadFunctionNames.push('hideSiteActions');
+"
+ Sequence="10001">
+  </CustomAction>
+</Elements>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="ff0ec07c-3943-4d9b-a207-d0d189027695" Scope="Site" Title="SharePoint.TestLab.JQuery Feature1">
+  <ElementManifests>
+    <ElementManifest Location="MyPictures\Elements.xml" />
+    <ElementFile Location="MyPictures\MyPictures.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a7703cae-04f7-42a2-81ee-874391157b27" solutionId="a7703cae-04f7-42a2-81ee-874391157b27" resetWebServer="false" sharePointProductVersion="15.0" name="SharePoint.TestLab.WebControls" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="1d3a9192-b0b8-47c6-bec9-2822681ca1d0" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="4cab52cc-7b7e-4580-b706-26cc7af0ed95" />
+  </projectItems>
+</package>

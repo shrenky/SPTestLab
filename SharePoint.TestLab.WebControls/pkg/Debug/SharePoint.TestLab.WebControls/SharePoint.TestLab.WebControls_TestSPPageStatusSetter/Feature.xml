@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Test SPPageStatusSetter" Description="Test SPPageStatusSetter" Id="9a5213e4-e205-47c2-89e6-8a53fa9ffc7b" Scope="Web"></Feature>

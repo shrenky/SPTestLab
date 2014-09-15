@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a5d14336-e193-4886-b7ac-b20e0b54b7d8" solutionId="a5d14336-e193-4886-b7ac-b20e0b54b7d8" resetWebServer="false" sharePointProductVersion="15.0" name="SharePoint.TestLab.CustomAction" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="f6de79a0-f678-4074-8c09-d06e55134a31" />
+    <featureReference itemId="01a8f375-85b6-4136-b06d-43082de5ff87" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="fb8ee34d-9143-4ff2-a4a1-6ad75c01168b" />
+  </projectItems>
+</package>

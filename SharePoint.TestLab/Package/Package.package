@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="f7018569-3c66-4210-859e-03a14946bcc6" 
+        solutionId="f7018569-3c66-4210-859e-03a14946bcc6" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint.TestLab"
+        sharePointProductVersion="15.0">
+</package>

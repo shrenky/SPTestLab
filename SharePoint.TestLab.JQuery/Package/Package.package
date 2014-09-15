@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5c459851-df80-4a47-9203-181428b462fb" solutionId="5c459851-df80-4a47-9203-181428b462fb" resetWebServer="false" sharePointProductVersion="15.0" name="SharePoint.TestLab.JQuery" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="b35b56ff-0123-40d7-a493-0a4b750d1ad5" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="079041c9-650d-4a60-a418-10c2a5dda0a0" />
+  </projectItems>
+</package>

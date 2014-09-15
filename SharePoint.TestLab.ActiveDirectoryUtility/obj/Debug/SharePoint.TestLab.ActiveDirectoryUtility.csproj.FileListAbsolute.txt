@@ -1,0 +1,6 @@
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.ActiveDirectoryUtility\bin\Debug\SharePoint.TestLab.ActiveDirectoryUtility.exe.config
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.ActiveDirectoryUtility\bin\Debug\SharePoint.TestLab.ActiveDirectoryUtility.exe
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.ActiveDirectoryUtility\bin\Debug\SharePoint.TestLab.ActiveDirectoryUtility.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.ActiveDirectoryUtility\obj\Debug\SharePoint.TestLab.ActiveDirectoryUtility.exe
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.ActiveDirectoryUtility\obj\Debug\SharePoint.TestLab.ActiveDirectoryUtility.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.ActiveDirectoryUtility\obj\Debug\SharePoint.TestLab.ActiveDirectoryUtility.csprojResolveAssemblyReference.cache

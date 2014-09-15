@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <CustomAction
+    Id="SharePoint.TestLab.CustomAction.SiteSetting"
+    GroupId="SiteCollectionAdmin"
+    Location="Microsoft.SharePoint.SiteSettings"
+    Sequence="3000"
+    Rights="ManageWeb"
+    Title="Records Repository Router Test">
+    <UrlAction Url="_layouts/SharePoint.TestLab.RecordsRepository/RouterTest.aspx" />
+  </CustomAction>
+</Elements>

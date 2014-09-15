@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e5642664-320f-4f46-ad99-77f97dcb841a" SharePointProductVersion="15.0">
+  <FeatureManifests>
+    <FeatureManifest Location="SharePoint.TestLab.Sandbox_DeployJQuery\Feature.xml" />
+  </FeatureManifests>
+</Solution>

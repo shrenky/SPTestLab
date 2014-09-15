@@ -1,0 +1,7 @@
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Query\bin\Debug\SharePoint.TestLab.Query.exe
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Query\bin\Debug\SharePoint.TestLab.Query.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Query\obj\Debug\SharePoint.TestLab.Query.exe
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Query\obj\Debug\SharePoint.TestLab.Query.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Query\obj\Debug\SharePoint.TestLab.Query.csprojResolveAssemblyReference.cache
+C:\Play\Lab\SharePoint.TestLab.Query\obj\Debug\SharePoint.TestLab.Query.exe
+C:\Play\Lab\SharePoint.TestLab.Query\obj\Debug\SharePoint.TestLab.Query.pdb

@@ -1,0 +1,5 @@
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Sandbox\bin\Debug\SharePoint.TestLab.Sandbox.dll
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Sandbox\bin\Debug\SharePoint.TestLab.Sandbox.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Sandbox\obj\Debug\SharePoint.TestLab.Sandbox.csprojResolveAssemblyReference.cache
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Sandbox\obj\Debug\SharePoint.TestLab.Sandbox.dll
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Sandbox\obj\Debug\SharePoint.TestLab.Sandbox.pdb

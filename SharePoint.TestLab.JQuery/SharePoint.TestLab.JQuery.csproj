@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{35AFD3F8-64A4-48A1-A03F-B5ADD476EB02}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SharePoint.TestLab.JQuery</RootNamespace>
+    <AssemblyName>SharePoint.TestLab.JQuery</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetOfficeVersion>15.0</TargetOfficeVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{C1CDDADD-2546-481F-9697-4EA41081F2FC};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Client.ServerRuntime" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Layouts\MyPicturesWebpart\MyPictureWebpartControl.ascx.cs">
+      <DependentUpon>MyPictureWebpartControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\MyPicturesWebpart\MyPictureWebpartControl.ascx.designer.cs">
+      <DependentUpon>MyPictureWebpartControl.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layouts\SharePoint.TestLab.JQuery\LoadJQuery.aspx.cs">
+      <DependentUpon>LoadJQuery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\SharePoint.TestLab.JQuery\LoadJQuery.aspx.designer.cs">
+      <DependentUpon>LoadJQuery.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layouts\SharePoint.TestLab.JQuery\TestJQuery.aspx.cs">
+      <DependentUpon>TestJQuery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\SharePoint.TestLab.JQuery\TestJQuery.aspx.designer.cs">
+      <DependentUpon>TestJQuery.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layouts\TaskViewer\TaskViewer.aspx.cs">
+      <DependentUpon>TaskViewer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\TaskViewer\TaskViewer.aspx.designer.cs">
+      <DependentUpon>TaskViewer.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyPictures\MyPictures.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Features\MyPictures\MyPictures.feature">
+      <FeatureId>{b35b56ff-0123-40d7-a493-0a4b750d1ad5}</FeatureId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="Layouts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{079041c9-650d-4a60-a418-10c2a5dda0a0}</SharePointProjectItemId>
+    </None>
+    <None Include="MyPictures\MyPictures.webpart" />
+    <None Include="MyPictures\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{d247f5ac-d22b-44d2-9421-358df7674238}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{5c459851-df80-4a47-9203-181428b462fb}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Layouts\MyPicturesWebpart\MyPictureWebpartControl.ascx" />
+    <Content Include="Features\MyPictures\MyPictures.Template.xml">
+      <DependentUpon>MyPictures.feature</DependentUpon>
+    </Content>
+    <Content Include="Layouts\SharePoint.TestLab.JQuery\js\jquery-1.11.0.min.js" />
+    <Content Include="Layouts\SharePoint.TestLab.JQuery\js\LoadJQuery.js" />
+    <Content Include="Layouts\SharePoint.TestLab.JQuery\js\main.js" />
+    <Content Include="Layouts\SharePoint.TestLab.JQuery\LoadJQuery.aspx" />
+    <Content Include="Layouts\SharePoint.TestLab.JQuery\js\require.js" />
+    <Content Include="Layouts\SharePoint.TestLab.JQuery\TestJQuery.aspx" />
+    <Content Include="Layouts\TaskViewer\jquery-1.11.0.min.js" />
+    <Content Include="Layouts\TaskViewer\jquery-ui.js" />
+    <Content Include="Layouts\TaskViewer\style.css" />
+    <Content Include="Layouts\TaskViewer\TaskViewer.aspx" />
+    <Content Include="Layouts\TaskViewer\TaskViewer.js" />
+    <Content Include="MyPictures\Elements.xml" />
+    <Content Include="MyPictures\jquery-1.11.0.min.js" />
+    <Content Include="MyPictures\MyNews.css" />
+    <Content Include="MyPictures\MyPictures.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">11.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" Condition="'$(VSToolsPath)' != ''" />
+</Project>

@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feature xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ea486886-6e06-4d18-ae48-51acc83dd879" featureId="ea486886-6e06-4d18-ae48-51acc83dd879" imageUrl="" solutionId="00000000-0000-0000-0000-000000000000" title="SharePoint TestLab ClientOM" version="" deploymentPath="$SharePoint.Project.FileNameWithoutExtension$_$SharePoint.Feature.FileNameWithoutExtension$" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/FeatureModel" />

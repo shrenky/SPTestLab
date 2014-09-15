@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5c459851-df80-4a47-9203-181428b462fb" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SharePoint.TestLab.JQuery.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SharePoint.TestLab.JQuery, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e3c293e493f96b02" Namespace="SharePoint.TestLab.JQuery.MyPictures" TypeName="*" />
+      </SafeControls>
+      <ClassResources>
+        <ClassResource Location="Scripts\jquery-1.11.0.min.js" />
+        <ClassResource Location="Scripts\MyPictures.js" />
+        <ClassResource Location="Styles\MyNews.css" />
+      </ClassResources>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\MyPicturesWebpart\MyPictureWebpartControl.ascx" />
+    <TemplateFile Location="Layouts\SharePoint.TestLab.JQuery\js\jquery-1.11.0.min.js" />
+    <TemplateFile Location="Layouts\SharePoint.TestLab.JQuery\js\LoadJQuery.js" />
+    <TemplateFile Location="Layouts\SharePoint.TestLab.JQuery\js\main.js" />
+    <TemplateFile Location="Layouts\SharePoint.TestLab.JQuery\LoadJQuery.aspx" />
+    <TemplateFile Location="Layouts\SharePoint.TestLab.JQuery\js\require.js" />
+    <TemplateFile Location="Layouts\SharePoint.TestLab.JQuery\TestJQuery.aspx" />
+    <TemplateFile Location="Layouts\TaskViewer\jquery-1.11.0.min.js" />
+    <TemplateFile Location="Layouts\TaskViewer\jquery-ui.js" />
+    <TemplateFile Location="Layouts\TaskViewer\style.css" />
+    <TemplateFile Location="Layouts\TaskViewer\TaskViewer.aspx" />
+    <TemplateFile Location="Layouts\TaskViewer\TaskViewer.js" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SharePoint.TestLab.JQuery_MyPictures\Feature.xml" />
+  </FeatureManifests>
+</Solution>

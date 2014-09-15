@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="82769587-c971-42fb-8a69-249a3fe41079" solutionId="82769587-c971-42fb-8a69-249a3fe41079" resetWebServer="false" sharePointProductVersion="15.0" name="SharePoint.TestLab.RecordsRepository" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="SharePoint.TestLab.RecordsRepository.dll" deploymentTarget="GlobalAssemblyCache" />
+  </assemblies>
+  <features>
+    <featureReference itemId="09321df4-8600-4a06-87d1-3b1a0be673f7" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="ebd49533-1f2e-4eee-b3f2-de471448766b" />
+  </projectItems>
+</package>

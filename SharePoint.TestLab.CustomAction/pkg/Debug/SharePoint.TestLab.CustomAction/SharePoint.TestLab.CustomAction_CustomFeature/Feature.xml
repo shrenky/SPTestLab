@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SharePoint.TestLab.CustomAction CustomFeature" Description="Custom feature is not xml configurable feaure, this feature is added or removed by code" Id="6247ba42-77d3-4672-af27-6a2e3b2fefa2" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="SiteSettingElement\Setting.xml" />
+  </ElementManifests>
+</Feature>

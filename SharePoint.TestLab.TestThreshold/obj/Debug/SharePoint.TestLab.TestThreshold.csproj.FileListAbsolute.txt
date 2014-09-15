@@ -1,0 +1,8 @@
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.TestThreshold\bin\Debug\SharePoint.TestLab.TestThreshold.exe.config
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.TestThreshold\bin\Debug\SharePoint.TestLab.TestThreshold.exe
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.TestThreshold\bin\Debug\SharePoint.TestLab.TestThreshold.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.TestThreshold\obj\Debug\SharePoint.TestLab.TestThreshold.csprojResolveAssemblyReference.cache
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.TestThreshold\obj\Debug\SharePoint.TestLab.TestThreshold.exe
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.TestThreshold\obj\Debug\SharePoint.TestLab.TestThreshold.pdb
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.TestThreshold\bin\Debug\SharePoint.TestLab.Helper.dll
+C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.TestThreshold\bin\Debug\SharePoint.TestLab.Helper.pdb
