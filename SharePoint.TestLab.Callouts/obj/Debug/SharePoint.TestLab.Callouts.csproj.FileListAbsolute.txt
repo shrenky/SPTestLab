@@ -1,0 +1,5 @@
+D:\Sam\github\sptestlab\SharePoint.TestLab.Callouts\bin\Debug\SharePoint.TestLab.Callouts.dll
+D:\Sam\github\sptestlab\SharePoint.TestLab.Callouts\bin\Debug\SharePoint.TestLab.Callouts.pdb
+D:\Sam\github\sptestlab\SharePoint.TestLab.Callouts\obj\Debug\SharePoint.TestLab.Callouts.csprojResolveAssemblyReference.cache
+D:\Sam\github\sptestlab\SharePoint.TestLab.Callouts\obj\Debug\SharePoint.TestLab.Callouts.dll
+D:\Sam\github\sptestlab\SharePoint.TestLab.Callouts\obj\Debug\SharePoint.TestLab.Callouts.pdb

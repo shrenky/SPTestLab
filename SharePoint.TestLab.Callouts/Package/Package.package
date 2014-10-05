@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="128cf4ca-4224-4aeb-a6c8-d7d38a4da742" solutionId="128cf4ca-4224-4aeb-a6c8-d7d38a4da742" resetWebServer="false" sharePointProductVersion="15.0" name="SharePoint.TestLab.Callouts" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="5c27b949-8f6a-4128-ba7c-7de024bef26c" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="13725740-76c7-416f-97a9-5cbea545a6d9" />
+  </projectItems>
+</package>

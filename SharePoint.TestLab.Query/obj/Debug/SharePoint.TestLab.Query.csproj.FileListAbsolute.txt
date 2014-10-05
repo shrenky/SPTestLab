@@ -5,3 +5,5 @@ C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint
 C:\Users\ysc\Documents\Visual Studio 2012\Projects\SharePoint.TestLab\SharePoint.TestLab.Query\obj\Debug\SharePoint.TestLab.Query.csprojResolveAssemblyReference.cache
 C:\Play\Lab\SharePoint.TestLab.Query\obj\Debug\SharePoint.TestLab.Query.exe
 C:\Play\Lab\SharePoint.TestLab.Query\obj\Debug\SharePoint.TestLab.Query.pdb
+D:\Sam\github\sptestlab\SharePoint.TestLab.Query\obj\Debug\SharePoint.TestLab.Query.exe
+D:\Sam\github\sptestlab\SharePoint.TestLab.Query\obj\Debug\SharePoint.TestLab.Query.pdb

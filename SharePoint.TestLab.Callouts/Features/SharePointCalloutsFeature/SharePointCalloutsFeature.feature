@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feature xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a8f17059-b295-47fd-bb77-89fd79f68ba6" featureId="a8f17059-b295-47fd-bb77-89fd79f68ba6" imageUrl="" solutionId="00000000-0000-0000-0000-000000000000" title="SharePoint.TestLab.Callouts Feature" version="" deploymentPath="$SharePoint.Project.FileNameWithoutExtension$_$SharePoint.Feature.FileNameWithoutExtension$" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/FeatureModel" />

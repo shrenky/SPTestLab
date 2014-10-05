@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="128cf4ca-4224-4aeb-a6c8-d7d38a4da742" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SharePoint.TestLab.Callouts.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\SharePoint.TestLab.Callouts\Demo.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SharePoint.TestLab.Callouts_SharePointCalloutsFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>
