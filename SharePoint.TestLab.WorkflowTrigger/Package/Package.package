@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9e072d04-e9c7-4475-badf-8e4cecf45d29" solutionId="9e072d04-e9c7-4475-badf-8e4cecf45d29" resetWebServer="false" sharePointProductVersion="15.0" name="SharePoint.TestLab.WorkflowTrigger" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="1f619d88-fe32-4676-950d-6e229a5f4805" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="44a2c546-37c4-41ac-a21b-6bd8f5dd761f" />
+  </projectItems>
+</package>

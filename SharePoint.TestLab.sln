@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint.TestLab.JQuery",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint.TestLab.Callouts", "SharePoint.TestLab.Callouts\SharePoint.TestLab.Callouts.csproj", "{3C07353B-5FEB-42D9-BC5C-03B8B489833F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint.TestLab.WorkflowTrigger", "SharePoint.TestLab.WorkflowTrigger\SharePoint.TestLab.WorkflowTrigger.csproj", "{3B664E02-41CE-4ED5-9CA3-764BF9800EF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +109,12 @@ Global
 		{3C07353B-5FEB-42D9-BC5C-03B8B489833F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C07353B-5FEB-42D9-BC5C-03B8B489833F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3C07353B-5FEB-42D9-BC5C-03B8B489833F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3B664E02-41CE-4ED5-9CA3-764BF9800EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B664E02-41CE-4ED5-9CA3-764BF9800EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B664E02-41CE-4ED5-9CA3-764BF9800EF7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3B664E02-41CE-4ED5-9CA3-764BF9800EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B664E02-41CE-4ED5-9CA3-764BF9800EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B664E02-41CE-4ED5-9CA3-764BF9800EF7}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
