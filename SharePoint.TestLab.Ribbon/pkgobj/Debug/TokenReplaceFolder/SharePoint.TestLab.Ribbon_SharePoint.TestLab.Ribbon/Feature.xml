@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="91b32f3a-4372-4bbc-97d5-fd595cfc7590" Scope="Web" Title="SharePoint.TestLab.Ribbon">
+  <ElementManifests>
+    <ElementManifest Location="MyCustomRibbon\Elements.xml" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="9e072d04-e9c7-4475-badf-8e4cecf45d29" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SharePoint.TestLab.WorkflowTrigger.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SharePoint.TestLab.WorkflowTrigger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=aac290fe6aa44785" Namespace="SharePoint.TestLab.WorkflowTrigger" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\SharePoint.TestLab.WorkflowTrigger\js\jquery-1.11.1.min.js" />
+    <TemplateFile Location="Layouts\SharePoint.TestLab.WorkflowTrigger\js\jquery.SPServices-2014.01.min.js" />
+    <TemplateFile Location="Layouts\SharePoint.TestLab.WorkflowTrigger\js\WorkflowTriggerPageComponent.js" />
+    <TemplateFile Location="Layouts\SharePoint.TestLab.WorkflowTrigger\js\WorkflowTriggerRibbon.js" />
+    <TemplateFile Location="Images\SharePoint.TestLab.WorkflowTrigger\Trigger.jpg" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SharePoint.TestLab.WorkflowTrigger_WorkflowTriggerFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="71f9392e-d5db-450c-bb67-23d22c01ffe3" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SharePoint.TestLab.Ribbon.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\SharePoint.TestLab.Ribbon\MyCustomRibbon.js" />
+    <TemplateFile Location="Layouts\SharePoint.TestLab.Ribbon\MyRibbonPage.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SharePoint.TestLab.Ribbon_SharePoint.TestLab.Ribbon\Feature.xml" />
+  </FeatureManifests>
+</Solution>

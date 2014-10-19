@@ -1,0 +1,5 @@
+D:\Sam\github\sptestlab\SharePoint.TestLab.WorkflowTrigger\bin\Debug\SharePoint.TestLab.WorkflowTrigger.dll
+D:\Sam\github\sptestlab\SharePoint.TestLab.WorkflowTrigger\bin\Debug\SharePoint.TestLab.WorkflowTrigger.pdb
+D:\Sam\github\sptestlab\SharePoint.TestLab.WorkflowTrigger\obj\Debug\SharePoint.TestLab.WorkflowTrigger.dll
+D:\Sam\github\sptestlab\SharePoint.TestLab.WorkflowTrigger\obj\Debug\SharePoint.TestLab.WorkflowTrigger.pdb
+D:\Sam\github\sptestlab\SharePoint.TestLab.WorkflowTrigger\obj\Debug\SharePoint.TestLab.WorkflowTrigger.csprojResolveAssemblyReference.cache

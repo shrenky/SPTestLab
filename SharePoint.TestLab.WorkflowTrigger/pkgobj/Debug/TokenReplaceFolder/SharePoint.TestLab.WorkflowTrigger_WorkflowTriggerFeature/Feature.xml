@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Trigger workflow by ribbon button" Id="a1c66ddc-497d-4f74-a8d0-15c8240ee39c" Scope="Web" Title="SharePoint TestLab Workflow Trigger">
+  <ElementManifests>
+    <ElementManifest Location="RibbonElement\Elements.xml" />
+  </ElementManifests>
+</Feature>

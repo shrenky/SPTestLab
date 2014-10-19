@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="Ribbon.CustomTab.CA" Location="CommandUI.Ribbon" Sequence="100" Title="My Custom Tab">
+    <CommandUIExtension>
+      <CommandUIDefinitions>
+        <CommandUIDefinition Location="Ribbon.Tabs._children">
+          <Tab Id="Ribbon.Tabs.MyCustomTab" Sequence="200" Command="MyCustomTab" Description="Desc" Title="My Custom Actions">
+            <Scaling Id="Ribbon.Tabs.MyCustomTab.Scaling">
+              <MaxSize Id="Ribbon.Tabs.MyCustomTab.MaxSize" GroupId="Ribbon.Tabs.MyCustomTab.Actions" Sequence="20" Size="LargeLarge"/>
+            </Scaling>
+            <Groups Id="Ribbon.Tabs.MyCustomTab.Groups">
+              <Group Id="Ribbon.Tabs.MyCustomTab.Actions" Command="MyCustomTabActions" Sequence="10" Description="" Title="Group X" Template="Ribbon.Templates.Flexible2">
+                <Controls Id="Ribbon.Tabs.MyCustomTab.Actions.Ctrls">
+                  <Button Id="Ribbon.Tabs.MyCustomTab.Actions.Save" Command="MyCustomSave" Image16by16="/_layouts/15/images/ctoa16.png"
+                           Image32by32="/_layouts/15/images/ctoa32.png" LabelText="My Save" Alt="My Safe Tooltip" TemplateAlias="o1"/>
+                </Controls>
+              </Group>
+            </Groups>
+          </Tab>
+        </CommandUIDefinition>
+      </CommandUIDefinitions>
+    </CommandUIExtension>
+  </CustomAction>
+</Elements>

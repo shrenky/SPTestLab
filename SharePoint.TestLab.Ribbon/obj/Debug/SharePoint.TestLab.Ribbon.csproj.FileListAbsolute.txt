@@ -1,0 +1,4 @@
+D:\Sam\github\sptestlab\SharePoint.TestLab.Ribbon\bin\Debug\SharePoint.TestLab.Ribbon.dll
+D:\Sam\github\sptestlab\SharePoint.TestLab.Ribbon\bin\Debug\SharePoint.TestLab.Ribbon.pdb
+D:\Sam\github\sptestlab\SharePoint.TestLab.Ribbon\obj\Debug\SharePoint.TestLab.Ribbon.dll
+D:\Sam\github\sptestlab\SharePoint.TestLab.Ribbon\obj\Debug\SharePoint.TestLab.Ribbon.pdb
